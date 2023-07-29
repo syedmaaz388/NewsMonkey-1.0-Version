@@ -1,0 +1,1 @@
+# NewsMonkey-1.0-Version
